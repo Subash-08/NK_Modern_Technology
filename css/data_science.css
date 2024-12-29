@@ -1,0 +1,114 @@
+.heading {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+  .heading h2 {
+    font-weight: bold;
+    color: #1a2b5b;
+  }
+  .heading p {
+    color: #6c757d;
+  }
+  .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  .card h5 {
+    font-weight: bold;
+    font-size: 22px;
+    margin: 20px 0;
+    color: #1a2b5b;
+  }
+  .btn-primary {
+    background-color: #4a90e2;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 50px;
+  }
+  .btn-primary:hover {
+    background-color: #357ab8;
+  }
+  .card_con p{
+    margin-right: 30px;
+  }
+  .expertise-section {
+    padding: 50px 15px;
+  }
+  .expertise-section h2 {
+    font-weight: bold;
+    color: #1A2B5B;
+  }
+  .expertise-section p {
+    color: #6c757d;
+  }
+  .card {
+    border: none;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+  }
+  .card:hover {
+    transform: translateY(-10px);
+  }
+  .card h5 {
+    color: #1A2B5B;
+    font-weight: bold;
+  }
+  .card p {
+    color: #6c757d;
+    line-height: 22px;
+  }
+  .card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .card a:hover {
+    text-decoration: underline;
+  }
+  .icon {
+    font-size: 30px;
+    color: #4a90e2;
+    margin-bottom: 15px;
+  }
+  .service-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    border-bottom: 5px solid #3dbdf4;
+    padding: 30px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .expertise{
+    width: 85%;
+  }
+  .service-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .service-icon {
+    font-size: 40px;
+    color: #007bff;
+    margin-bottom: 15px;
+  }
+  .service-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  .service-description {
+    color: #6c757d;
+  }
+  .service-link {
+    color: #007bff;
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .service-link:hover {
+    text-decoration: underline;
+  }
+
+  
